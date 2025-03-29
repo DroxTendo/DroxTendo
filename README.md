@@ -4,7 +4,7 @@ Hello World!
 
 My name's Matt, and this is my GitHub. 
 
-I have over 17 years experience as a Software Engineer, with the last 13 years focusing more on Data Engineering and Data Analytics. I have a MSCS from DePaul university where I studied general computer science but also a focus on database technolgies.
+I have over 17 years experience as a Software Engineer in the video game industry, with the last 13 years focusing more on Data Engineering and Data Analytics. I have a MSCS from DePaul university where I studied general computer science but also a focus on database technolgies.
 
 A bit more about me: 
 - I'm a father of 5 with my beautiful wife.
